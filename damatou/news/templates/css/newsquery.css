@@ -1,0 +1,124 @@
+div#newsquery {
+margin:0px;
+padding:0px;
+}
+
+div#newsquery ul{
+margin:0;
+padding:0;
+}
+
+div#newsquery li{
+list-style-type: none;
+height:36px;
+font-size: 12px;
+overflow: hidden;
+line-height:28px;
+background:url("../images/line.jpg")/*tpa=http://demo.mobanzhongxin.com/4242/news/templates/images/line.jpg*/ 0px 0px no-repeat;
+}
+
+div#newsquery a:link,div#newsquery a:visited,div#newsquery a:active{
+text-decoration: none;
+font:12px/25px Verdana, Arial, Helvetica, sans-serif;
+color:#333;
+}
+
+div#newsquery a:hover{
+text-decoration: underline;
+font:12px/25px Verdana, Arial, Helvetica, sans-serif;
+color:#ff6600;
+}
+
+
+div#newsquery li.title{
+padding-left:22px;
+}
+
+
+div#newsquery div.title{
+float:left;
+font:12px/25px Verdana, Arial, Helvetica, sans-serif;
+}
+
+div#newsquery .time{
+float:right;
+white-space: nowrap;
+overflow: hidden;
+font:10px/23px Verdana, Arial, Helvetica, sans-serif;
+padding-right:5px;
+color:#999;
+}
+
+
+
+/* ============·­Ò³============== */
+
+div#showpages {
+clear:both;
+padding:0px;
+margin:20px 0px;
+width:100%;
+height:30px;
+white-space: nowrap;
+}
+
+div#pagesinfo {
+float:left;
+padding:3px 8px;
+white-space: nowrap;
+}
+
+div#pages {
+float:right;
+padding-right:8px;
+white-space: nowrap;
+}
+
+div#pages ul{
+margin:0;
+padding:0;
+}
+
+div#pages a:link,div#pages a:visited,div#pages a:active{
+color:#303030;
+text-decoration: none;
+}
+
+div#pages a:hover{
+color:#ff0000;
+text-decoration: none;
+}
+
+div#pages li{
+margin:3px;
+padding:2px 5px;
+list-style-type: none;
+float:left;
+background:#dcd9d4;
+color:#303030;
+border:1px #dcd9d4 solid;
+white-space: nowrap;
+}
+
+div#pages li.pagesnow{
+color:#303030;
+background-color:#eee;
+white-space: nowrap;
+border:1px #dcd9d4 solid;
+}
+
+div#pages li.pbutton{
+color:#303030;
+background-color:#dcd9d4;
+padding:3px 5px 1px 5px;
+white-space: nowrap;
+border:1px #dcd9d4 solid;
+}
+
+div#pages li.opt{
+color:#303030;
+padding:0px;
+white-space: nowrap;
+border:0px;
+background:#fff;
+}

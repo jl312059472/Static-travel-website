@@ -1,0 +1,157 @@
+/* ============Õº∆¨–ÕœÍ«È============== */
+
+div#piccontent{
+margin:5px 0px;
+background:#f0f0f0;
+border:1px #ddd solid;
+text-align:left;
+}
+
+div#piccontent .fcenter{
+text-align:center;
+}
+
+div#piccontent .introzone{
+margin:10px;
+border:1px #ddd solid;
+background:#f9f9f9;
+}
+
+
+div#piccontent .title{
+margin:10px 20px 0px 20px;
+text-align: left;
+font: 16px/1.5 Verdana, Arial, Helvetica, sans-serif ;
+font-weight:bold;
+line-height:50px;
+}
+
+div#piccontent .photozone{
+text-align: center;
+padding:15px;
+margin:10px;
+background:#fff;
+border:1px #ddd solid;
+}
+
+div#piccontent .photopic{
+cursor:pointer;
+}
+
+div#piccontent .photoloading{
+margin:150px 0px;
+}
+
+div#memo{
+padding:0px;
+margin:5px 20px 20px 20px;
+text-align:left;
+font: 12px/1.5 Verdana, Arial, Helvetica, sans-serif ;
+}
+
+
+div#piccontent .bzone{
+clear:both;
+margin:20px 20px 30px 20px;
+text-align: left;
+}
+
+
+div#piccontent .tags{
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+background:url("../images/tags.gif")/*tpa=http://demo.mobanzhongxin.com/4242/photo/templates/images/tags.gif*/ left no-repeat;
+padding-left:23px;
+height:22px;
+line-height:22px;
+}
+
+div#piccontent .source{
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+background:url("../images/source.gif")/*tpa=http://demo.mobanzhongxin.com/4242/photo/templates/images/source.gif*/ left no-repeat;
+padding-left:23px;
+height:22px;
+line-height:22px;
+}
+
+div#piccontent .addfav{
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+background:url("../images/fav.gif")/*tpa=http://demo.mobanzhongxin.com/4242/photo/templates/images/fav.gif*/ left no-repeat;
+padding-left:23px;
+height:22px;
+line-height:22px;
+cursor:pointer;
+}
+
+div#piccontent #zhichi{
+cursor:pointer;
+background:url("../images/zhichi.gif")/*tpa=http://demo.mobanzhongxin.com/4242/photo/templates/images/zhichi.gif*/ right no-repeat;
+padding-right:12px;
+}
+
+div#piccontent #fandui{
+cursor:pointer;
+background:url("../images/fandui.gif")/*tpa=http://demo.mobanzhongxin.com/4242/photo/templates/images/fandui.gif*/ right no-repeat;
+padding-right:12px;
+}
+
+div#piccontent .banzhu{
+display:none;
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+background:url("../images/banzhu.gif")/*tpa=http://demo.mobanzhongxin.com/4242/photo/templates/images/banzhu.gif*/ left no-repeat;
+padding-left:23px;
+height:22px;
+line-height:22px;
+}
+
+div#piccontent .banzhu span{
+cursor:pointer;
+}
+
+
+/* ============∑≠“≥============== */
+
+div#contentpages {
+margin-top:15px;
+height:35px;
+}
+
+
+div#contentpages ul{
+margin:0;
+padding:0;
+}
+
+
+div#contentpages li{
+margin:3px;
+list-style-type: none;
+float:left;
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+color:#fff;
+border:1px #fff solid;
+background-color:#bbb;
+white-space: nowrap;
+padding:2px 5px;
+cursor:pointer;
+}
+
+div#contentpages li.pagesnow{
+color:#fff;
+background-color:#999;
+cursor:pointer;
+}
+
+div#contentpages li.pbutton{
+color:#fff;
+background-color:#999;
+padding:2px 6px 2px 6px;
+cursor:pointer;
+}
+
+div#contentpages li.cbutton{
+color:#fff;
+background-color:#999;
+padding:2px 6px 2px 6px;
+color:#fff;
+cursor:default;
+}

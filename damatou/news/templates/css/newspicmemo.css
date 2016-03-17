@@ -1,0 +1,49 @@
+/* ============Õº∆¨+ΩÈ…‹¡–±Ì============== */
+
+
+ul.newspicmemo{
+margin:0;
+padding:0
+}
+
+ul.newspicmemo li{
+clear:all;
+list-style-type: none; 
+padding:10px;
+margin-bottom:3px;
+overflow: hidden;
+}
+
+ul.newspicmemo div.picFit{
+float:left;
+text-align:center;
+margin-right:13px;
+overflow: hidden;
+}
+
+ul.newspicmemo div.pic img{
+}
+
+ul.newspicmemo div.tm{
+margin-right:6px;
+}
+
+
+ul.newspicmemo a.title:link,ul.newspicmemo a.title:visited,ul.newspicmemo a.title:active{
+font:bold 12px/16px simsun;
+color:#464646;
+text-decoration: none;
+}
+
+ul.newspicmemo a.title:hover{
+font:bold 12px/16px simsun;
+color:#ff0000;
+text-decoration: underline;
+}
+
+
+ul.newspicmemo div.memo{
+font:12px/18px simsun;
+margin-top:3px;
+color:#464646;
+}

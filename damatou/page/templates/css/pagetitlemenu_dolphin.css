@@ -1,0 +1,28 @@
+ul.titlemenu_dolphin{
+margin:0px;
+padding:18px 0px 20px 0px;
+}
+li.titlemenu_dolphin {
+list-style-type: none;
+white-space: nowrap;
+width:100%; height:30px; line-height:25px; border-bottom:#99BFD0 1px dashed;
+}
+ a.titlemenu_dolphin:link, a.titlemenu_dolphin:visited, a.titlemenu_dolphin:active{
+display:block;
+text-decoration: none;
+font:12px/30px Verdana, Arial, Helvetica, sans-serif;
+height:30px;
+text-align:left;
+background:url("../images/list.jpg") 10px 12px no-repeat;
+padding-left:52px;
+margin:0px;
+color:#fff;
+
+}
+
+ a.titlemenu_dolphin:hover{
+display:block;
+color: red; 
+text-decoration: none;
+text-decoration:underline;
+}

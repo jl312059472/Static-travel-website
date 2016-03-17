@@ -1,0 +1,39 @@
+/* ============ËÑË÷±íµ¥============== */
+div.globalsearchformzone{
+padding:0px;
+margin:0px;
+height:26px;
+background:url("../images/searchl.jpg")/*tpa=http://demo.mobanzhongxin.com/4242/search/templates/images/searchl.jpg*/ 0 0 no-repeat;
+}
+
+div.globalsearchformzone div.globalsearchform{
+float:left;
+padding:0px;
+margin:0px 0px 0px 7px;
+height:26px;
+font:12px/22px simsun;
+color:#ffffff;
+}
+
+div.globalsearchformzone div.globalsearchform1{
+float:right;
+padding:0px;
+margin:0px;
+line-height:26px;
+}
+
+div.globalsearchformzone div.globalsearchform .input{
+border:0px;
+height:20px;
+line-height:21px;
+padding:0px;
+margin:0px;
+background:transparent;
+color:#dfebc9;
+width:200px;
+}
+
+div.globalsearchformzone div.globalsearchform1 .imgbutton{
+padding:0px;
+margin:0px;
+}

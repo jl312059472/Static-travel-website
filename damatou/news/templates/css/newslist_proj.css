@@ -1,0 +1,33 @@
+/* ============ндубап╠М============== */
+
+ul.newslist_proj{
+margin:0px;
+padding:0px 0px 0px 3px;
+}
+
+li.newslist_proj {
+margin:0px;
+padding-left:12px;
+padding-top:3px;
+list-style-type: none;
+height:24px;
+background: transparent url("../images/list.jpg")/*tpa=http://demo.mobanzhongxin.com/4242/news/templates/images/list.jpg*/ 0px  12px no-repeat;
+}
+
+li.newslist_proj .time{
+float:right;
+font:10px/12px Verdana, Arial, Helvetica, sans-serif;
+color:#9d6681;
+padding-right:3px;
+}
+
+a.newslist_proj:link,a.newslist_proj:visited,a.newslist_proj:active{
+color:#666;
+text-decoration: none;
+font:12px/13px Verdana, Arial, Helvetica, sans-serif;
+}
+
+a.newslist_proj:hover{
+color:#ff0000;
+font:12px/13px Verdana, Arial, Helvetica, sans-serif;
+}

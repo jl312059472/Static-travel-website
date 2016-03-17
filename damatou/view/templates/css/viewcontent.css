@@ -1,0 +1,91 @@
+/* ============ ”∆µœÍ«È============== */
+
+div#viewcontent{
+	margin:0;
+	text-align:center;
+}
+
+div#viewcontent .viewtitle{
+	margin:5px 0px;
+	text-align: center;
+	font:bold 18px/50px Verdana, Arial, Helvetica, sans-serif ;
+}
+
+div#viewcontent .viewzone{
+	text-align: center;
+	padding:10px;
+	margin:5px;
+}
+
+div#viewcontent .viewview{
+cursor:pointer;
+}
+
+div#viewcontent .viewloading{
+margin:150px 0px;
+}
+
+div#memo{
+padding:0px;
+margin:5px 20px 20px 20px;
+text-align:left;
+font: 12px/1.5 Verdana, Arial, Helvetica, sans-serif ;
+}
+
+
+div#viewcontent .bzone{
+clear:both;
+margin:20px 20px 30px 20px;
+text-align: left;
+}
+
+
+div#viewcontent .tags{
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+background:url("../images/tags.gif")/*tpa=http://demo.mobanzhongxin.com/4242/view/templates/images/tags.gif*/ left no-repeat;
+padding-left:23px;
+height:22px;
+line-height:22px;
+}
+
+div#viewcontent .source{
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+background:url("../images/source.gif")/*tpa=http://demo.mobanzhongxin.com/4242/view/templates/images/source.gif*/ left no-repeat;
+padding-left:23px;
+height:22px;
+line-height:22px;
+}
+
+div#viewcontent .addfav{
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+background:url("../images/fav.gif")/*tpa=http://demo.mobanzhongxin.com/4242/view/templates/images/fav.gif*/ left no-repeat;
+padding-left:23px;
+height:22px;
+line-height:22px;
+cursor:pointer;
+}
+
+div#viewcontent #zhichi{
+cursor:pointer;
+background:url("../images/zhichi.gif")/*tpa=http://demo.mobanzhongxin.com/4242/view/templates/images/zhichi.gif*/ right no-repeat;
+padding-right:12px;
+}
+
+div#viewcontent #fandui{
+cursor:pointer;
+background:url("../images/fandui.gif")/*tpa=http://demo.mobanzhongxin.com/4242/view/templates/images/fandui.gif*/ right no-repeat;
+padding-right:12px;
+}
+
+div#viewcontent .banzhu{
+display:none;
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+background:url("../images/banzhu.gif")/*tpa=http://demo.mobanzhongxin.com/4242/view/templates/images/banzhu.gif*/ left no-repeat;
+padding-left:23px;
+height:22px;
+line-height:22px;
+}
+
+div#viewcontent .banzhu span{
+cursor:pointer;
+}

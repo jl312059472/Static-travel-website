@@ -1,0 +1,42 @@
+/* ============Í¼Æ¬ÁÐ±í============== */
+div.photopic_dolphin_up{
+border:0px #ebebeb solid;
+padding:0px;
+margin:0px;
+overflow: hidden; 
+width:470px;
+height:238px;
+position:relative;
+}
+
+div.photopic_dolphin_up div.shopborder{
+list-style-type: none;
+float:left;
+margin:0px 16px 0px 0px;
+}
+
+div.photopic_dolphin_up div.fang{
+padding:0px;
+margin:0px 0px 16px 0px;
+text-align:left;
+}
+
+div.photopic_dolphin_up div.picFit{
+overflow: hidden;
+}
+
+div.photopic_dolphin_up a.prodtitle:link,div.photopic_dolphin_up a.prodtitle:visited,div.photopic_dolphin_up a.prodtitle:active{
+display:block;
+color:#303030;
+font:12px/20px Verdana, Arial, Helvetica, sans-serif;
+text-decoration: none;
+text-align:center;
+padding-bottom:4px;
+}
+
+div.photopic_dolphin_up a.prodtitle:hover{
+display:block;
+color:#e10000;
+text-decoration: underline;
+font:12px/20px Verdana, Arial, Helvetica, sans-serif;
+}
